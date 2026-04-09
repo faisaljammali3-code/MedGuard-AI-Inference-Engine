@@ -1,0 +1,12 @@
+# Ignore Data Files
+*.tsv
+*.csv
+*.parquet
+/data/*
+
+# Ignore Secrets
+.env
+
+# Python caches
+__pycache__/
+*.pyc

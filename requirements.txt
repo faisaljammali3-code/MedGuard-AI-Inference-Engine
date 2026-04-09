@@ -1,0 +1,8 @@
+pandas
+numpy
+torch
+Pillow
+transformers==4.50.0
+accelerate
+bitsandbytes
+huggingface-hub
